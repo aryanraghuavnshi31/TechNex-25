@@ -128,10 +128,5 @@ The frontend runs on http://localhost:5173/ and communicates with both backend m
 
 
 
-## 👨‍💻 Author
 
-Developed by 
-- 1.Sourabh Singh Rajput
-- 2.Swayam Dhamunia
-- 3.Utkarsh Pathak
-- 4.Aryan Raghuvanshi
+
